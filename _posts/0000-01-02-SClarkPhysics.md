@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey Hey Hey
+This is SClarkPhysics' slide
 Use the left arrow to go back!
